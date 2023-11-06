@@ -29,8 +29,8 @@ Save and Run the Program.
 
 ## Program:
 ```
-Developed by: Paul Andrew D
-Register number: 212221230075
+Developed by: Jeeva MS
+Register number: 212221230040
 ```
 ### (i) block.x=1023
 ```cuda c
